@@ -1,6 +1,8 @@
 {
     "title":"鼠头鸭脖 Blog",
-    "subTitle":"Blog description",
+    "subTitle":"红烧鼠头，我喜欢吃。",
     "avatarUrl":"https://github.githubassets.com/favicons/favicon.svg",
     "GMEEK_VERSION":"last"
+    "allHead":"<script src='https://blog.meekdai.com/Gmeek/plugins/GmeekBSZ.js'></script>",
+
 }
