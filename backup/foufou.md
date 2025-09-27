@@ -2,4 +2,11 @@
 
 https://img.wangbin.run/2019.3.31%20Cornel%20and%20Rithika%20_%20Bachata%20Sensual%20_%20Master%20class%20_%20Moscow.mp4
 
+
+
 https://img.wangbin.run/photo/run/2024/11/03/11.pdf
+
+[https://img.wangbin.run/2019.3.31%20Cornel%20and%20Rithika%20_%20Bachata%20Sensual%20_%20Master%20class%20_%20Moscow.mp4](url)
+
+
+[https://img.wangbin.run/photo/run/2024/11/03/11.pdf](url)
