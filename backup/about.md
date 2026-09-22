@@ -7,7 +7,13 @@
 ---
 
 [高性价比人生指南] 
-克隆(https://s.wangbin.net/HowToLiveBetter/) 
+克隆：(https://s.wangbin.net/HowToLiveBetter/) 
 原版：(https://eternity4719.github.io/HowToLiveBetter/) 
 Github：(https://github.com/eternity4719/HowToLiveBetter)
+
+[免费无广告的追剧资源指南] 
+克隆：(http://s.wangbin.net/awesome-zhuiju-free/) 
+原版：(https://zhuiju.me/) 
+Github：(https://github.com/laoma2053/awesome-zhuiju-free) 
+
 
