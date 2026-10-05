@@ -7,7 +7,7 @@
 ---
 
 [高性价比人生指南] 
-克隆：(https://s.wangbin.net/HowToLiveBetter/) 
+克隆：(https://s.wangbin.net/howtolivebetter/) 
 原版：(https://eternity4719.github.io/HowToLiveBetter/) 
 Github：(https://github.com/eternity4719/HowToLiveBetter)
 
